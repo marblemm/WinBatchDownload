@@ -1,0 +1,17 @@
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\bin\Debug\WinBatchDownload.exe
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\bin\Debug\WinBatchDownload.pdb
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.FrmBatchDownload.resources
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.Properties.Resources.resources
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.exe
+G:\工作资料\目前正在进行项目\网络硬盘\WinForm版——1.0\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.pdb
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.exe
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.pdb
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\bin\Debug\WinBatchDownload.exe
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\bin\Debug\WinBatchDownload.pdb
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.FrmBatchDownload.resources
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WinBatchDownload\WinBatchDownload\obj\x86\Debug\WinBatchDownload.csproj.GenerateResource.Cache
